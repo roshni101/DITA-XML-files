@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to Subtract Numbers</title>
+    <shortdesc>Here you will find instructions about using the subtraction feature of the caluclator
+        application</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zcg_p2d_mqb">
+            <p>To sucessfully subtract numbers, you must know what is subtraction. </p>
+        </prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the minus (-) button</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the Equal to (=) button</cmd>
+            </step>
+        </steps>
+        <result id="result_esz_3hd_mqb">
+            <p>The result of subtraction is displayed.</p>
+        </result>
+        <example id="example_p54_lhd_mqb">
+            <p>You want to subtract 3 from 5. The equation formed will be 5 - 3 . First enter number
+                5. Press the minus sign. Enter number 3 . Press Equals to. </p>
+            <p>The result is displayed on the screen</p>
+        </example>
+    </taskbody>
+</task>
