@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="data_entry_in_manual_mode">
+    <title>Data entry in Manual Mode</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select the Manual mode icon <image placement="inline" height="0.7cm" href="images/Manual_icon.JPG"></image> at the top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>The text box now says “What have you done?”<image placement="break" href="images/Textbox_manual_mode.JPG"></image></cmd>
+            </step>
+            <step>
+                <cmd>Enter the details of the task that you were working on.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the Start Time and Stop Time.<image placement="break"
+                        href="images/Manual_start_stop_time.JPG"/></cmd>
+            </step>
+            <step>
+                <cmd>Click the Tick icon <image placement="inline" height="0.8cm" href="images/Manual_tick.JPG"></image> to add an entry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
