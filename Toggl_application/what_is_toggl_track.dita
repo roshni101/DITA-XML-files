@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_toggl_track">
+    <title>What is Toggl Track</title>
+    <shortdesc> </shortdesc>
+    <conbody>
+        <p>
+            <b>Toggl Track</b> is a time tracking application with a timer that helps you work in
+            short periods. You can add details about hours and minutes spent on different activities
+            while working/studying. </p>
+        <p>Hence, it’s an excellent resource not just for time entries but also for analyzing where
+            does time fly. </p>
+        <p>
+            <image placement="break" href="images/Title_page.JPG" align="center"
+                id="image_g4p_tpb_4qb"/> 
+        </p>
+    </conbody>
+</concept>
