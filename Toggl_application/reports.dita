@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reports">
+    <title>Reports</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>The generated report gives a brief summary of the time spent on various activities for a given period of time. 
+                With multiple download format options, it is very convenient to analyze if the available time is spent on the right activities.
+            </p>
+            <p> </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the left pane, select the Reports option.<image placement="inline"  href="images/Reports_option.JPG"></image></cmd>
+            </step>
+            <step>
+                <cmd>On the top right corner, click on the downward arrow icon.<image placement="inline" href="images/Download_icon.JPG"></image></cmd>
+            </step>
+            <step>
+                <cmd>Three options are displayed:Download PDF, Download CSV, Download excel.</cmd>
+            </step>
+            <step>
+                <cmd>Select the option Download PDF.</cmd>
+            </step>
+            <step>
+                <cmd>The PDF file will be downloaded on your computer.</cmd>
+            </step>
+         </steps>
+        <postreq><b><i>These basic elements are only the beginning of your exploration journey with Toggl Track……..</i></b> 
+        </postreq>
+    </taskbody>
+ </task>
