@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Quick Start Guide to Toggl Track </title>
+    <topicref href="what_is_toggl_track.dita"/>
+    <topicref href="how_to_sign_up.dita"/>
+    <topicref href="getting_started.dita"/>
+    <topicref href="data_entry_in_timer_mode.dita"/>
+    <topicref href="data_entry_in_manual_mode.dita"/>
+    <topicref href="reports.dita"/>
+</map>
