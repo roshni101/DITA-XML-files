@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="getting_started">
+    <title>Getting started</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Once you log in, a welcome page will be displayed.</p>
+        <p>At the top-right corner there are two icons : <image placement="inline" height="0.8cm" href="images/Timer_icon.JPG"></image>        <image placement="inline" height="0.8cm" href="images/Manual_icon.JPG"></image></p>
+        <p></p>
+        <p>The clock icon <image placement="inline" scalefit="yes" height="0.8cm" href="images/Timer_icon.JPG"></image> is to use TIMER mode.</p>
+        <p>The Timer mode is a normal timer, with start/stop functionality.</p>
+        <p></p>
+        <p>The three horizontal lines icon <image placement="inline" scalefit="yes" height="0.8cm" href="images/Manual_icon.JPG"></image>is for MANUAL mode.</p>
+        <p>Manual mode is used to enter details of past activities.</p>
+        <p>This comes handy when you may have skipped logging in real-time. </p>
+    </conbody>
+</concept>

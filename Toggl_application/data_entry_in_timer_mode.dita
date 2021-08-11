@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="data_entry_in_timer_mode">
+    <title>Data entry in Timer Mode</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Ensure that the play button is purple in color,<image placement="inline"
+                        height="0.8cm" href="images/Timer_start.JPG"/> which means that Timer mode
+                    is On.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the task in the textbox that displays“What are you working on ?”<image placement="break" href="images/Textbox_timer_mode.JPG"></image></cmd>
+            </step>
+            <step>
+                <cmd>Press enter.</cmd>
+            </step>
+            <step>
+                <cmd>The timer starts automatically. (The purple play button now turns to a red
+                        circle)<image placement="break" href="images/Timer_ongoing.JPG"/></cmd>
+            </step>
+            <step>
+                <cmd>To stop the timer just press the red circle.</cmd>
+            </step>
+        </steps>
+        <result>After the timer is stopped, the activity details are added to the list.
+            <image placement="break" align="right" href="images/Timer_entry.JPG"></image>
+        </result>
+    </taskbody>
+</task>
